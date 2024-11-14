@@ -1,4 +1,8 @@
-## Habilidades Técnicas
+### Perfil Pessoal
+
+Tenho 21 anos e frequento atualmente o 3º ano da Licenciatura em Engenharia de Sistemas Informáticos. Reconhecendo que a área de Tecnologias de Informação é muito ampla, sinto-me extremamente motivado para melhorar as minhas habilidades e crescer profissionalmente.
+
+### Habilidades Técnicas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> &nbsp;
